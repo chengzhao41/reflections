@@ -1,2 +1,6 @@
 To collobrate with other people
 You could be in the middle of coding a feature, and do not want to bother with merging, or you could be doing something completely different and do not want to deal with remote branch anymore
+forks = clone + commit on repo on github, also allows tracking of the original forked repo
+branch is just commit to a different branch 
+clone is just copying a repo
+allows you to merge with remote without having internet connection
