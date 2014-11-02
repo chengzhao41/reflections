@@ -1,0 +1,1 @@
+By looking at the differences, we can think about why they were introduced, and learn how to avoid mistakes. 
