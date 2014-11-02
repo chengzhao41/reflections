@@ -1,1 +1,3 @@
 .git is created which is needed to store the meta data for this repo
+working directory is everything, staging area is files that can be committed
+staging area allows people to bundle files into 1 commit
