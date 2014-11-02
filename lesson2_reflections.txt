@@ -3,3 +3,7 @@ working directory is everything, staging area is files that can be committed
 staging area allows people to bundle files into 1 commit
 add changes to staging area for the same logical change, commit when changes are done for this logical change
 branches can be used to allow for experimentation or development of features or functions that are seperate of the main branch
+you can see where branches happened and what has occured since then
+you get one branch, where commits are interleaved by timestamps
+it makes it easier to visualize the changes since
+saves time but author will not know of logical errors
