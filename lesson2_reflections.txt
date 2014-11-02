@@ -1,3 +1,5 @@
 .git is created which is needed to store the meta data for this repo
 working directory is everything, staging area is files that can be committed
 staging area allows people to bundle files into 1 commit
+add changes to staging area for the same logical change, commit when changes are done for this logical change
+branches can be used to allow for experimentation or development of features or functions that are seperate of the main branch
